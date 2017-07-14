@@ -1,9 +1,5 @@
 # Summary
 
-## Cheet Sheet
-
-* [TOC](README.md)
-
 ## Content
 
 * [Interesting JS snippet](js-snippet/interesting-snippet.md)
@@ -14,4 +10,8 @@
 ## Example
 
 * [Defining Methods xxx](methods.md)
+
+## Cheet Sheet
+
+* [TOC](README.md)
 
