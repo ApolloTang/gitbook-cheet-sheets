@@ -2,7 +2,7 @@
 
 ## JS snippet
 
-* Interesting snippet
+* [Interesting snippet](js-snippet/interesting-snippet.md)
   * [counter](js-snippet/counter.md)
 
 ## HTML
