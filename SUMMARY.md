@@ -2,11 +2,11 @@
 
 ## Content
 
-* [JS snippet](js-snippet/js-snippet.md)
+* JS snippet
   * [misc snippet](js-snippet/misc-snippet.md)
-* [Tools](tools/tools.md)
+* Tools
   * [Add library from CDN](tools/add-library-from-cdn.md)
-* [HTML](html/html.md)
+* HTML
   * [html template](html/html-template.md)
 * Heroku
   * [Heroku Basic](js-snippet/heroku-basic.md)
