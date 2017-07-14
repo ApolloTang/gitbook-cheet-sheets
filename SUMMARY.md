@@ -1,12 +1,21 @@
 # Summary
 
-## Overview
+## JS snippet
+
+* Interesting snippet
+  * [counter](js-snippet/counter.md)
+
+## HTML
+
+* [HTML](html/html.md)
+  * [html 5 header](dafsd.md)
+
+## this a part
 
 * [My Awesome API](README.md)
-* [html5](html5.md)
-* [testing](testing.md)
-
-## stuff
-
+* [another article](another-article.md)
+  * [l;kj](another-article/lkj.md)
 * [Defining Methods xxx](methods.md)
+
+## parts
 
