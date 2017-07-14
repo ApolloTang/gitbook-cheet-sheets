@@ -2,8 +2,8 @@
 
 Methods allow you to smoothly display code examples in different languages.
 
-{% method %}
-## My first method
+{% mehodvvv %}
+## My first method xx
 
 My first method exposes how to print a message in JavaScript and Go.
 
