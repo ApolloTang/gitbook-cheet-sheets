@@ -12,9 +12,8 @@
 
 ## this a part
 
+* [TOC](another-article.md)
 * [My Awesome API](README.md)
-* [another article](another-article.md)
-  * [l;kj](another-article/lkj.md)
 * [Defining Methods xxx](methods.md)
 
 ## parts
