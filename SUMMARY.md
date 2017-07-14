@@ -2,12 +2,12 @@
 
 ## Content
 
-* [Interesting JS snippet](js-snippet/interesting-snippet.md)
-  * [this article has no title](js-snippet/counter.md)
-* Tools
-  * [Add library from CDN](js-snippet/add-library-from-cdn.md)
+* [JS snippet](js-snippet/js-snippet.md)
+  * [misc snippet](js-snippet/misc-snippet.md)
+* [Tools](tools/tools.md)
+  * [Add library from CDN](tools/add-library-from-cdn.md)
 * [HTML](html/html.md)
-  * [html 5 header](html/html-header.md)
+  * [html template](html/html-template.md)
 
 ## Example
 
