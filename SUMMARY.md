@@ -8,7 +8,7 @@
   * [Add library from CDN](tools/add-library-from-cdn.md)
 * HTML
   * [html template](html/html-template.md)
-* Heroku
+* [Heroku](content/heroku.md)
   * [Heroku Basic](heroku/heroku-basic.md)
 
 ## Example
