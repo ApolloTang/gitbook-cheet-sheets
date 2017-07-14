@@ -8,9 +8,10 @@ $ heroku login
 {% endmethod %}
 
 {% method %}
+xx
 {% common %} 
 ```bash
-$ git clone https://github.com/heroku/node-js-getting-started.git  
+`$ git clone https://github.com/heroku/node-js-getting-started.git ` 
 ``` 
 {% endmethod %}
 
@@ -20,6 +21,14 @@ create a repo remotely to mirror the local repo
 ```bash
 $ heroku create   
 ``` 
+{% endmethod %}
+
+
+{% method %}
+{% common %}
+```bash
+$ heroku login
+```
 {% endmethod %}
 
 
