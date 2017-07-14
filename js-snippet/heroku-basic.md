@@ -8,15 +8,15 @@ $ heroku login
 {% endmethod %}
 
 {% method %}
-xx
+Clone node template 
 {% common %} 
 ```bash
-`$ git clone https://github.com/heroku/node-js-getting-started.git ` 
-``` 
+$ git clone https://github.com/heroku/node-js-getting-started.git 
+```
 {% endmethod %}
 
 {% method %}
-create a repo remotely to mirror the local repo
+Create a repo remotely to mirror the local repo
 {% common %} 
 ```bash
 $ heroku create   
