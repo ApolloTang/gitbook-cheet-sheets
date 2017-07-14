@@ -3,7 +3,7 @@
 ## JS snippet
 
 * [Interesting snippet](js-snippet/interesting-snippet.md)
-  * [counter](js-snippet/counter.md)
+  * [this article has no title](js-snippet/counter.md)
 
 ## HTML
 
