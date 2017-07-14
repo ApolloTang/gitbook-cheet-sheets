@@ -6,7 +6,7 @@
 * [html5](html5.md)
 * testing
 
-## Methods
+## stuff
 
 * [Defining Methods](methods.md)
 
