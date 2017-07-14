@@ -1,7 +1,7 @@
 ### Heroku Basic
 
 
-```bash
+```
 
 $ heroku login                 ## login
 
