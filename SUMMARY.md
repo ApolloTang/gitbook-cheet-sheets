@@ -8,5 +8,5 @@
 
 ## stuff
 
-* [Defining Methods](methods.md)
+* [Defining Methods xxx](methods.md)
 
