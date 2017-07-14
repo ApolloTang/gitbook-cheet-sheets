@@ -9,7 +9,7 @@
 * HTML
   * [html template](html/html-template.md)
 * Heroku
-  * [Heroku Basic](js-snippet/heroku-basic.md)
+  * [Heroku Basic](heroku/heroku-basic.md)
 
 ## Example
 
