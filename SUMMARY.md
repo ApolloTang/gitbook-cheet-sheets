@@ -4,7 +4,7 @@
 
 * [JS snippet](content/js-snippet.md)
   * [misc snippet](js-snippet/misc-snippet.md)
-* Tools
+* [Tools](content/tools.md)
   * [Add library from CDN](tools/add-library-from-cdn.md)
 * [HTML](content/html.md)
   * [html template](html/html-template.md)
