@@ -1,4 +1,3 @@
-
 ## An array of order number
 
 ```
@@ -10,4 +9,25 @@ var data = Array.apply(null, {length: 20}).map(Number.call, Number);
 console.log('data');
 ```
 
+
+
+## Inject styleshee into head
+
+```js
+var css = 'h1 { background: red; }',
+    head = document.head || document.getElementsByTagName('head')[0],
+    style = document.createElement('style');
+
+style.type = 'text/css';
+if (style.styleSheet){
+  style.styleSheet.cssText = css;
+} else {
+  style.appendChild(document.createTextNode(css));
+}
+
+head.appendChild(style);
+
+```
+
+ref: [https://stackoverflow.com/a/524721/3136861](https://stackoverflow.com/a/524721/3136861)
 

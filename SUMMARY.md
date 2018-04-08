@@ -2,7 +2,7 @@
 
 ## Content
 
-* JS snippet
+* [JS snippet](content/js-snippet.md)
   * [misc snippet](js-snippet/misc-snippet.md)
 * Tools
   * [Add library from CDN](tools/add-library-from-cdn.md)
